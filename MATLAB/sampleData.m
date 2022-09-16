@@ -15,3 +15,5 @@ plot(t,y1);
 plot(t,y2);
 xlabel('Time (s)')
 ylabel('Magic (V)')
+lg = legend('Good day', 'Bad day')
+set(lg, 'Box','off')

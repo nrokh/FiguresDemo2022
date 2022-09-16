@@ -9,5 +9,5 @@ By the end of this demo, you'll learn:
 1. Why making a beautiful figure for a paper, presentation, or poster is a **good use of your time**
 2. What makes a fantastic figure and **common pitfalls** to avoid
 3. Where the **standard tools** are that you'll use in Inkscape
-4. Why I prefer to *edit my plots in Inkscape* rather than Matlab (or Python) 
-5. How to create a *beautiful hybrid figure* with both ilustration and quantative components
+4. Why I prefer to **edit my plots in Inkscape** rather than Matlab (or Python) 
+5. How to create a **beautiful hybrid figure** with both ilustration and quantative components

@@ -1,7 +1,7 @@
 # Fantastic Figures and Where to Find Them
 ### nrokh 2022.09.16
 ---------
-[Youtube video link](##)
+[Youtube video link part 1](https://youtu.be/0tgcCUTt1NU) and [part 2](https://youtu.be/Eyq6StchXuk)
 --------
 To get started:
 * Download Inkscape v1.0 or above [here](https://inkscape.org/release/inkscape-1.2.1/)

@@ -1,6 +1,8 @@
 # Fantastic Figures and Where to Find Them
 ### nrokh 2022.09.16
 ---------
+[Youtube video link](##)
+--------
 To get started:
 * Download Inkscape v1.0 or above [here](https://inkscape.org/release/inkscape-1.2.1/)
 * Matlab is nice to have for this demo, but we can work around it 
